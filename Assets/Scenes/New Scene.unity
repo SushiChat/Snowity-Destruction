@@ -276,6 +276,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cylinder (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 5191598940774798170, guid: 37d9bb519ad94804092d9944186fa0a3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9b8eadc4de0544646b75ddcc43f8fd06, type: 2}
     - target: {fileID: 6907809428567329064, guid: 37d9bb519ad94804092d9944186fa0a3, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -364,6 +368,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cylinder (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 5191598940774798170, guid: 37d9bb519ad94804092d9944186fa0a3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 736842b96d612a04098f1bf372844607, type: 2}
     - target: {fileID: 6907809428567329064, guid: 37d9bb519ad94804092d9944186fa0a3, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -799,6 +807,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cylinder (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 5191598940774798170, guid: 37d9bb519ad94804092d9944186fa0a3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 736842b96d612a04098f1bf372844607, type: 2}
     - target: {fileID: 6907809428567329064, guid: 37d9bb519ad94804092d9944186fa0a3, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -857,6 +869,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cylinder (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 5191598940774798170, guid: 37d9bb519ad94804092d9944186fa0a3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 736842b96d612a04098f1bf372844607, type: 2}
     - target: {fileID: 6907809428567329064, guid: 37d9bb519ad94804092d9944186fa0a3, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -1047,7 +1063,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 4ca2905c79414404cbd8872a7f3ca25f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1165,7 +1181,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: f54e37389fd835a49a79e6eeaf89ec56, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1466,6 +1482,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cylinder (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 5191598940774798170, guid: 37d9bb519ad94804092d9944186fa0a3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8b73e8872ca76104bbca4ee2b704a1b4, type: 3}
     - target: {fileID: 6907809428567329064, guid: 37d9bb519ad94804092d9944186fa0a3, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -1565,7 +1585,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 736842b96d612a04098f1bf372844607, type: 2}
+  - {fileID: 2100000, guid: 55fbc16a57548b34dbf49b3d855d97d0, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1775,6 +1795,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cylinder (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 5191598940774798170, guid: 37d9bb519ad94804092d9944186fa0a3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8b73e8872ca76104bbca4ee2b704a1b4, type: 3}
     - target: {fileID: 6907809428567329064, guid: 37d9bb519ad94804092d9944186fa0a3, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -1856,6 +1880,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cylinder (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 5191598940774798170, guid: 37d9bb519ad94804092d9944186fa0a3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8b73e8872ca76104bbca4ee2b704a1b4, type: 3}
     - target: {fileID: 6907809428567329064, guid: 37d9bb519ad94804092d9944186fa0a3, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -1954,7 +1982,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 4ca2905c79414404cbd8872a7f3ca25f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2009,6 +2037,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cylinder (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 5191598940774798170, guid: 37d9bb519ad94804092d9944186fa0a3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9b8eadc4de0544646b75ddcc43f8fd06, type: 2}
     - target: {fileID: 6907809428567329064, guid: 37d9bb519ad94804092d9944186fa0a3, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -2067,6 +2099,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cylinder (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 5191598940774798170, guid: 37d9bb519ad94804092d9944186fa0a3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 49076442eeb7e054b8e8869f8b40656d, type: 2}
     - target: {fileID: 6907809428567329064, guid: 37d9bb519ad94804092d9944186fa0a3, type: 3}
       propertyPath: m_RootOrder
       value: 8
@@ -2165,7 +2201,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 4ca2905c79414404cbd8872a7f3ca25f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2220,6 +2256,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cylinder
       objectReference: {fileID: 0}
+    - target: {fileID: 5191598940774798170, guid: 37d9bb519ad94804092d9944186fa0a3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 736842b96d612a04098f1bf372844607, type: 2}
     - target: {fileID: 6907809428567329064, guid: 37d9bb519ad94804092d9944186fa0a3, type: 3}
       propertyPath: m_RootOrder
       value: 0
